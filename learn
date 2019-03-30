@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-   testing page
+   <title>testing page</title>
 </head>
 <body>
 <script>
    alert("when ill add the option , I'd like to read your opinions");
 </script>
+hi
 </body>
 </html>
